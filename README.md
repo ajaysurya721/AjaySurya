@@ -3,8 +3,7 @@
 🎓 Data Science & Analytics Student  
 💻 Interested in Python, Machine Learning & Streamlit  
 🚀 Building ML and Data Science Projects  
-🌱 Currently learning TensorFlow & Deep Learning  
-
+  
 ## 🔧 Skills
 - Python
 - Java
