@@ -23,4 +23,8 @@
 
 ## 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/ajay-surya-638505242
-- GitHub: 
+- GitHub: https://github.com/ajaysurya721
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
